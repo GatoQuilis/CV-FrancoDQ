@@ -30,10 +30,18 @@
     "work": [
       {
         "name": "Claro Argentina",
-        "position": "Analista Noc",
+        "position": "Analista Config. Componentes Comerciales",
         "url": "https://www.claro.com.ar/",
-        "startDate": "2021-08",
+        "startDate": "2024-03",
         "endDate": null,
+        "summary": "Configurar en el sistema, siguiendo los requerimientos de las áreas comerciales de AUP, las variables integrantes de la oferta comercial con el fin de su posterior comercialización y facturación, asegurando el procesamiento en tiempo y forma de los pedidos solicitados. \b Participar proactivamente en las reuniones de prefactibilidad de acciones comerciales y en las actividades de simplificación y adecuación de las ofertas. \b Proponer mejoras, actualizaciones y esquemas simples apoyados en los conocimientos de los sistemas. \b Dar soporte a las gerencias comerciales al momento de realizar los requerimientos. \b Cumplir, acorde con la politica vigente, los tiempos de carga requeridos por los plazos comerciales, así como los controles cruzados internos para corregir diferencias antes de poner los productos a disposición. \b Generar, siguiendo los procedimientos del área, la información para control interno de los elementos creados con el fin de detectar tempranamente cualquier error. \b Respaldar siguiendo las pauras establecidas, la documentación que evidencia las tareas realizadas, para responder ante ante cualquier auditoria o consulta posterior del usuario sobtre tareas realizadas en el pasado."
+      },
+      {
+        "name": "",
+        "position": "Analista Noc",
+        "url": null,
+        "startDate": "2021-08",
+        "endDate": "2024-03-20",
         "summary": "Responsable de monitorear alarmas de tecnologías 2G, 3G, 4G & 5G en los países de Argentina, Uruguay y Paraguay. Herramientas: *Temip & UOC para monitoreo de alarmas en tiempo real. *Remedy Cloud. *Grafana Dashboard Monitoring. *NetAct | Nokia Networks: Sistema de administración de red, que permite el monitoreo, administracion y configuracion de software. *Soporte técnico a personal de campo para el mantenimiento de la red de acceso de telefonía celular AMPS, PCS CDMA y GSM.",
         "highlights": [
           "Started the company"
@@ -42,7 +50,7 @@
       {
         "name": "",
         "position": "Operador CCR | Operaciones",
-        "url": "https://www.claro.com.ar/",
+        "url": null,
         "startDate": "2014-01",
         "endDate": "2021-07",
         "summary": "Responsable en el monitoreo de alarmas de energía y estados de los servicios 2G, 3G & 4G en equipos movil y fija. Herramientas: ",
